@@ -1,0 +1,18 @@
+
+Título:	Proyecto que muestra la temperatura y humedad
+Fecha:	12/04/2018
+Autor:	Marco Antonio Moreno Cortés
+
+ 
+
+Lista de componentes
+
+
+2  Resistencias de 330 ohmios.
+1  Potenciómetro de 10K.
+*  Cables.
+1  Placa Arduino Uno.
+1  Placa Protoboard.
+1  Cable de impresora.
+1  Pantalla LDC de 16x2.
+1  Sensor de Temperatura y humedad DHT11.
