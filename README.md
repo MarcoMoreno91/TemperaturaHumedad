@@ -32,4 +32,10 @@ También el proyecto que se realizo muestra la humedad adicionalmente y la tempe
 
 ![esquema circuito](https://user-images.githubusercontent.com/36495262/38909184-293be05a-4289-11e8-95ba-d0c50f040902.png)
 
-## 2
+## 2-Esquema del Circuito.
+
+![esquemaeletrico](https://user-images.githubusercontent.com/36495262/38909508-7becf194-428a-11e8-8e81-6bee53786750.png)
+
+## 3-Interfaz y Comunicación con arduino.
+
+![temperatura](https://user-images.githubusercontent.com/36495262/38910077-47e240cc-428d-11e8-9701-0a7941aa353c.png)
