@@ -39,3 +39,25 @@ También el proyecto que se realizo muestra la humedad adicionalmente y la tempe
 ## 3-Interfaz y Comunicación con arduino.
 
 ![temperatura](https://user-images.githubusercontent.com/36495262/38910077-47e240cc-428d-11e8-9701-0a7941aa353c.png)
+ 
+![humedad](https://user-images.githubusercontent.com/36495262/38910605-b090a30a-428f-11e8-95c1-83958f50bef1.png)
+
+
+## 4-Envio del Mensaje de interfaz en Java a Pantalla LCD.
+
+![img_0665](https://user-images.githubusercontent.com/36495262/38910236-ff891ba6-428d-11e8-8e49-20313dfd53d7.JPG)
+
+## 5-Envio de Datos de Temperatura y Humedad a Pantalla LCD.
+
+![img_0666](https://user-images.githubusercontent.com/36495262/38910423-d6d4eaae-428e-11e8-8652-d5e8120fa2f6.JPG)
+
+## 6-Envio de Feacha y Hora a Pantalla LCD.
+
+![img_0667](https://user-images.githubusercontent.com/36495262/38910534-51bfdd3c-428f-11e8-8425-8375996b6da5.JPG)
+
+## 7-Pantalla Bienvenido Mensaje Predeterminado.
+
+![img_0675](https://user-images.githubusercontent.com/36495262/38910734-6415a22c-4290-11e8-905c-b0fc728fa2d0.JPG)
+
+
+
