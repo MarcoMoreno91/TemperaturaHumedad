@@ -1,5 +1,4 @@
-
-# Interfaz gráfica en java que realiza la comunicación con Arduino y envio de datos de humedad y temperatura por el puerto serial.
+# INTERFAZ GRÁFICA EN JAVA QUE REALIZA LA COMUNICACIÓN CON ARDUINO Y ENVIO DE DATOS DE TEMPERATURA Y HUMEDADPOR EL PUERTO SERIAL.
 
 
 Fecha:	12/04/2018
