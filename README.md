@@ -27,3 +27,9 @@ También el proyecto que se realizo muestra la humedad adicionalmente y la tempe
 * 1  Cable de impresora.
 * 1  Pantalla LDC de 16x2.
 * 1  Sensor de Temperatura y humedad DHT11.
+
+## 1-Montado del Circuito.
+
+![esquema circuito](https://user-images.githubusercontent.com/36495262/38909184-293be05a-4289-11e8-95ba-d0c50f040902.png)
+
+## 2
